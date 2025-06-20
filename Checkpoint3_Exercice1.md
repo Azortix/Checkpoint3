@@ -40,5 +40,5 @@ Partage du dossier avec Everyone (on pourrait être plus précis mais c'est aps 
 ![](Ressources/1-1.3.1-1.png)
 On déplace les contenu des lecteurs dans ces nouveaux dossiers créés.  
 Puis création de la GPO :
-![](Ressources/1-1.3.1-2.png)
+![](Ressources/1-1.3.1-2.png)  
 avec E et F (donc deux fois New Mapped Drive)
