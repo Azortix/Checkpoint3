@@ -63,7 +63,7 @@ Sur VirtalBox :
 ``lvcreate -L 2G -n Sauvegardes save`` pour créer un LV "Sauvegarde de 2Go depuis le VG "save"  
 ``mkfs.ext4 /dev/save/Sauvegardes`` formate le LV par un systeme de fichier ici ext4  
 ``mount /dev/save/Sauvegardes /var/lib/bareos/storage`` On monte d'abord manuellement pour vérifier que tout va bien  
-puis pour le monter de manière automatique :
+puis pour le monter de manière automatique :  
 ![](Ressources/2-2.3.4.png) 
 
 
